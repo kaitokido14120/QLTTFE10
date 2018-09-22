@@ -1,4 +1,4 @@
-$(document).ready(function () {
+﻿$(document).ready(function () {
 
     var dsKhoaHoc = new DanhSachKhoaHoc();
     var svKhoaHoc = new KhoaHocService();
@@ -187,4 +187,5 @@ $(document).ready(function () {
         }
 
     })
+console.log(1);
 });

@@ -4,7 +4,7 @@ function NguoiDung(tk,mk,ht,email,sodt,maloaind,tenloaind){
     this.HoTen = ht;
     this.Email = email;
     this.SoDT = sodt;
-    this.MaLoaiNguoiDung = maloaind;
+    this.MaLoaiNguoiDung = 'HV';
     this.TenLoaiNguoiDung = tenloaind;
     this.Diem = '';
 }
